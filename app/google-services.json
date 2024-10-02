@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "804168647284",
+    "firebase_url": "https://femu-adcc4-default-rtdb.firebaseio.com",
+    "project_id": "femu-adcc4",
+    "storage_bucket": "femu-adcc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804168647284:android:3c8065a4da58822a368721",
+        "android_client_info": {
+          "package_name": "com.example.femu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpb8TpMaYFcO_vINIH1nUN5TV1M0FLC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
